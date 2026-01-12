@@ -3,7 +3,7 @@ node_modules
 .secrets
 .actrc
 .DS_Store
-../.gh-pages/
+/.gh-pages/
 /.api/
 .env
 /temp/
